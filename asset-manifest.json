@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/basket120/static/css/main.d24ec862.chunk.css",
-    "main.js": "/basket120/static/js/main.d506dd8b.chunk.js",
-    "main.js.map": "/basket120/static/js/main.d506dd8b.chunk.js.map",
+    "main.css": "/basket120/static/css/main.04a1e62c.chunk.css",
+    "main.js": "/basket120/static/js/main.519ff1ac.chunk.js",
+    "main.js.map": "/basket120/static/js/main.519ff1ac.chunk.js.map",
     "runtime-main.js": "/basket120/static/js/runtime-main.db01ea76.js",
     "runtime-main.js.map": "/basket120/static/js/runtime-main.db01ea76.js.map",
     "static/js/2.68cd545a.chunk.js": "/basket120/static/js/2.68cd545a.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.ff546138.chunk.js": "/basket120/static/js/3.ff546138.chunk.js",
     "static/js/3.ff546138.chunk.js.map": "/basket120/static/js/3.ff546138.chunk.js.map",
     "index.html": "/basket120/index.html",
-    "static/css/main.d24ec862.chunk.css.map": "/basket120/static/css/main.d24ec862.chunk.css.map",
+    "static/css/main.04a1e62c.chunk.css.map": "/basket120/static/css/main.04a1e62c.chunk.css.map",
     "static/js/2.68cd545a.chunk.js.LICENSE.txt": "/basket120/static/js/2.68cd545a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.db01ea76.js",
     "static/js/2.68cd545a.chunk.js",
-    "static/css/main.d24ec862.chunk.css",
-    "static/js/main.d506dd8b.chunk.js"
+    "static/css/main.04a1e62c.chunk.css",
+    "static/js/main.519ff1ac.chunk.js"
   ]
 }
