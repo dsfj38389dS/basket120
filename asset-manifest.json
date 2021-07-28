@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/basket120/static/css/main.318ad643.chunk.css",
-    "main.js": "/basket120/static/js/main.4ad01bc5.chunk.js",
-    "main.js.map": "/basket120/static/js/main.4ad01bc5.chunk.js.map",
+    "main.css": "/basket120/static/css/main.54fd8a03.chunk.css",
+    "main.js": "/basket120/static/js/main.4bf82308.chunk.js",
+    "main.js.map": "/basket120/static/js/main.4bf82308.chunk.js.map",
     "runtime-main.js": "/basket120/static/js/runtime-main.36076d26.js",
     "runtime-main.js.map": "/basket120/static/js/runtime-main.36076d26.js.map",
     "static/js/2.7f3d64a3.chunk.js": "/basket120/static/js/2.7f3d64a3.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.6c413a7d.chunk.js": "/basket120/static/js/3.6c413a7d.chunk.js",
     "static/js/3.6c413a7d.chunk.js.map": "/basket120/static/js/3.6c413a7d.chunk.js.map",
     "index.html": "/basket120/index.html",
-    "static/css/main.318ad643.chunk.css.map": "/basket120/static/css/main.318ad643.chunk.css.map",
-    "static/js/2.7f3d64a3.chunk.js.LICENSE.txt": "/basket120/static/js/2.7f3d64a3.chunk.js.LICENSE.txt"
+    "static/css/main.54fd8a03.chunk.css.map": "/basket120/static/css/main.54fd8a03.chunk.css.map",
+    "static/js/2.7f3d64a3.chunk.js.LICENSE.txt": "/basket120/static/js/2.7f3d64a3.chunk.js.LICENSE.txt",
+    "static/media/karasy1.6b308087.jpg": "/basket120/static/media/karasy1.6b308087.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.36076d26.js",
     "static/js/2.7f3d64a3.chunk.js",
-    "static/css/main.318ad643.chunk.css",
-    "static/js/main.4ad01bc5.chunk.js"
+    "static/css/main.54fd8a03.chunk.css",
+    "static/js/main.4bf82308.chunk.js"
   ]
 }
